@@ -1,4 +1,5 @@
 **Group Norms:**
+
 **Cognitive & Affective Trust:**
    - Encourage open communication, active listening, and reliability. Acknowledge and celebrate successes.
    -  Address issues openly and honestly, seek to understand perspectives, and work towards rebuilding trust through actions, not just words.
