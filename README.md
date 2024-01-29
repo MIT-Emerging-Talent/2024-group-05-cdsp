@@ -14,7 +14,7 @@
    - What are the effects of wars and politics on Education?
    - How to create a globally accepted curriculum to make credit transfer easier.
    
-$${\color{blue}**Group Norms:**}$$ 
+$${\color{blue} # Group Norms }$$ 
 
 **Cognitive & Affective Trust:**
    - Encourage open communication, active listening, and reliability. Acknowledge and celebrate successes.
