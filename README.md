@@ -38,7 +38,7 @@
 
 
 
-**Learning Goals:**
+🔰 **Learning Goals:**
 - Working effectively as a cross-functional team in a remote setting.
 - Develop the capability to conduct thorough research and analyze project  related data
 - Learning to implement knowledge in real-life research and analysis scenarios.
@@ -48,12 +48,12 @@
 
 
 
-**Constraints:**
+‼️ **Constraints:**
 - Time Zone difference
 - Team members availability 
 - Time constraints of the project milestones
 
 
-**Communication Plan:**
+🌏 **Communication Plan:**
 - Regular meetings twice a week (One during the week, one on weekend, more if necessary)
 - Daily communication on Whatsapp/Slack
