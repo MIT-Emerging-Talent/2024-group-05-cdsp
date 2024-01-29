@@ -1,9 +1,9 @@
 # MIT Emerging Talent Group-5 Project
 
-😇**Research Focus Area**
+🅰️ **Research Focus Area**
    - Education
  
-**Initial Study of the Problem domain**
+🅱️ **Initial Study of the Problem domain**
    - The focus of this study is to understand why education is successful in some countries as well as why it is failing in other countries
    - To understand the challenges and profer vaible solution(s) to these challenges so all people from all over the world irrespective of where
      they live can have access to a quality and affordable education.
