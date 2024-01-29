@@ -16,23 +16,23 @@
    
 ## Group Norms
 
-**Cognitive & Affective Trust:**
+:accessibility: **Cognitive & Affective Trust:**
    - Encourage open communication, active listening, and reliability. Acknowledge and celebrate successes.
    -  Address issues openly and honestly, seek to understand perspectives, and work towards rebuilding trust through actions, not just words.
 
-**Discussion & Debate:**
+:accessibility: **Discussion & Debate:**
    - Define when each is appropriate; for instance, use discussion for idea generation and debate for critical decision points.
    - Be open to adapting the balance based on the nature and urgency of the task.
 
-**Meeting Times and Agendas:**
+:accessibility: **Meeting Times and Agendas:**
    - Agree on regular meeting times to accommodate everyone and stick to agendas to maximize efficiency.
    -  Be open to adjusting schedules when necessary, considering time zones and individual commitments.
    -  Meetings will be held at the same time as the workshops but on days that we do not have workshops considering team members commitments and time zone differences.
 
-**Communication Channels:**
+:accessibility: **Communication Channels:**
    -  All the project-related communication for our team will happen through the following platforms: Whatsapp, Slack, and Email.
 
-**Respect:**
+:accessibility: **Respect:**
    - All members should demonstrate respectful considerations, such as active listening, acknowledging others' perspectives, and giving credit where it's due.
 - it is important to address disrespectful behavior privately initially. If the issue is not resolved through private discussion it can be brought up in a group meeting.
 
