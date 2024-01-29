@@ -1,16 +1,16 @@
 **Research Focus - Problem Statement**
-   -Education
+   - Education
  
 **Initial Study of the Problem domain**
-   -The focus of this study is to understand why education is successful in some countries as well as why it is failing in other countries
-   -To understand the challenges and profer vaible solution(s) to these challenges so all people from all over the world irrespective of where they live
-    can have access to a quality and affordable education.
+   - The focus of this study is to understand why education is successful in some countries as well as why it is failing in other countries
+   - To understand the challenges and profer vaible solution(s) to these challenges so all people from all over the world irrespective of where
+     they live can have access to a quality and affordable education.
  
 **Scoped, Actionable Research questions** 
-   -How to make education globally accessible regardless of gender, race, and geography?
-   -Why is education successful in some countries and failing in other countries?
-   -What are the effects of wars and politics on Education?
-   -How to create a globally accepted curriculum to make credit transfer easier.
+   - How to make education globally accessible regardless of gender, race, and geography?
+   - Why is education successful in some countries and failing in other countries?
+   - What are the effects of wars and politics on Education?
+   - How to create a globally accepted curriculum to make credit transfer easier.
    
 **Group Norms:**
 
