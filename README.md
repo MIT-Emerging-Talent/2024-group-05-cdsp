@@ -1,9 +1,16 @@
 **Research Focus - Problem Statement**
-
+   -
+ 
 **Initial Study of the Problem domain**
-
+   -
+   -
+   -
+ 
 **Scoped, Actionable Research questions** 
-
+   -
+   -
+   -
+   
 **Group Norms:**
 
 **Cognitive & Affective Trust:**
