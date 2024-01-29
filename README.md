@@ -1,6 +1,6 @@
 # MIT Emerging Talent Group-5 Project
 
-**Research Focus Area**
+😇**Research Focus Area**
    - Education
  
 **Initial Study of the Problem domain**
